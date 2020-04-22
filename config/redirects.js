@@ -2570,5 +2570,9 @@ module.exports = [
     {
       from: '/product-lifecycle/deprecation-eol',
       to: '/product-lifecycle/migration-process'
+    },
+    {
+      from: '/connections/social/miicard',
+      to: '/connections/identity-providers-social'
     }
 ];
